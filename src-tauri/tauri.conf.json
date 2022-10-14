@@ -61,6 +61,10 @@
         "title": "HeadsetCtrl-Tauri",
         "width": 800
       }
-    ]
+    ],
+    "systemTray": {
+      "iconPath": "icons/material-Headphones-Battery.png",
+      "iconAsTemplate": true
+    }
   }
 }
